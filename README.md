@@ -1,2 +1,2 @@
 # VideoConsoleController
-This is an exercise of CSS3 and HTML5 
+This is a CSS3 and HTML5 exercise where we are implementing a Nintendo controller using these technologies.
